@@ -1,3 +1,3 @@
 # diff-practice
 Git動画講座diff練習用
-mergetoolコンフリクト用(featureブラン�
+rebase-practiceブランチで更新(rebase用)
